@@ -1,0 +1,14 @@
+/* фон выпадающего списка */
+.Select-menu-outer,
+.VirtualizedSelectOption {
+    background-color: #1e1e1e !important;
+}
+
+.Select-menu-outer div:hover {
+    background-color: #4c535a !important;
+    color: #ffffff !important;
+}
+
+.Select-value-label {
+    color: #ffffff !important;
+}

@@ -1,0 +1,15 @@
+/* убрать отступ слева, чтобы поле начиналось сразу под label */
+.small-date .SingleDatePickerInput {
+    display:block;          /* переносит строку под <label>  */
+}
+
+/* само текстовое поле */
+.small-date .DateInput,
+.small-date .DateInput_input {
+    background:#1e1e1e;
+    color:#fff;
+    font-size:15px;
+    height:40px;
+    width:100%;
+}
+
